@@ -48,4 +48,4 @@ Incluye funcionalidades como carga de datos personales, validación de campos, r
 
 ---
 
-_Trabajo presentado como parte de la cursada del espacio curricular correspondiente._
+_Trabajo presentado como parte de la cursada del espacio curricular correspondiente a Programación I._
